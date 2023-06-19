@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(223, 227, 238)
+    
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 70px;
+    
+    
+}
+
+h2 {
+    text-align: center;
+    color: green;
+}
+
+p {
+    text-align: center;
+    color: blue;
+}
+
+main {
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: green;
+    
+    font-size: larger;
+}
+
